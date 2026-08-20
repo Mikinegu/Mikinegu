@@ -46,35 +46,6 @@ My main focus is **Flutter and full-stack development**, but I also enjoy workin
 
 I like projects that sit at the intersection of **software, hardware, design, and real-world problems**.
 
-```rust
-struct Developer {
-    name: &'static str,
-    based_in: &'static str,
-    primary_focus: Vec<&'static str>,
-    interests: Vec<&'static str>,
-    mission: &'static str,
-}
-
-fn get_profile() -> Developer {
-    Developer {
-        name: "Mikyas Bekele",
-        based_in: "Ethiopia",
-        primary_focus: vec![
-            "Flutter Development",
-            "Full-Stack Web Development",
-            "Modern UI & Product Development",
-        ],
-        interests: vec![
-            "IoT & Embedded Systems",
-            "Automation",
-            "STEM Education",
-            "Creative Technology",
-        ],
-        mission: "Building technology that turns ideas into useful real-world products 🚀"
-    }
-}
-```
-
 ## 🛠️ Tech Stack
 
 <div align="center">
