@@ -46,7 +46,7 @@ My main focus is **Flutter and full-stack development**, but I also enjoy workin
 
 I like projects that sit at the intersection of **software, hardware, design, and real-world problems**.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stacks
 
 <div align="center">
 
